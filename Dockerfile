@@ -3,7 +3,7 @@
 
 FROM alpine:latest
 
-ARG POCKETCMS_VERSION=0.1.1
+ARG POCKETCMS_VERSION=0.1.2
 ARG LITESTREAM_VERSION=v0.3.13
 
 # Install the dependencies
